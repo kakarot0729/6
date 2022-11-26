@@ -14,3 +14,4 @@ print(f"10 != 15的结果是：{num1 != num2}")
 name1 = "itcast"
 name2 = "itheima"
 print(f"itcast == itheima 结果是：{name1 == name2} ")
+12345
